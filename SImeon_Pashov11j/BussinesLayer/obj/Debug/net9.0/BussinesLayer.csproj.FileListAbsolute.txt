@@ -1,0 +1,11 @@
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\bin\Debug\net9.0\BussinesLayer.deps.json
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\bin\Debug\net9.0\BussinesLayer.dll
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\bin\Debug\net9.0\BussinesLayer.pdb
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.AssemblyInfoInputs.cache
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.AssemblyInfo.cs
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.csproj.CoreCompileInputs.cache
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.dll
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\refint\BussinesLayer.dll
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\BussinesLayer.pdb
+D:\програмиране\SImeon_Pashov11j\BussinesLayer\obj\Debug\net9.0\ref\BussinesLayer.dll

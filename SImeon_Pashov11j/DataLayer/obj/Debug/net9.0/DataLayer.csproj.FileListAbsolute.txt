@@ -1,0 +1,17 @@
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\DataLayer.deps.json
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\DataLayer.runtimeconfig.json
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\DataLayer.dll
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\DataLayer.pdb
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.csproj.AssemblyReference.cache
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfoInputs.cache
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfo.cs
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.dll
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\refint\DataLayer.dll
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.pdb
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.genruntimeconfig.cache
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\ref\DataLayer.dll
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\BussinesLayer.dll
+D:\програмиране\SImeon_Pashov11j\DataLayer\bin\Debug\net9.0\BussinesLayer.pdb
+D:\програмиране\SImeon_Pashov11j\DataLayer\obj\Debug\net9.0\DataLayer.csproj.Up2Date
